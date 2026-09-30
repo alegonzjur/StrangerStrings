@@ -1,0 +1,92 @@
+{
+  "E2_-30c.wav": {
+    "string": "E2",
+    "detune_cents": -30,
+    "f0": 80.99118819552892
+  },
+  "E2_+0c.wav": {
+    "string": "E2",
+    "detune_cents": 0,
+    "f0": 82.4068892282175
+  },
+  "E2_+15c.wav": {
+    "string": "E2",
+    "detune_cents": 15,
+    "f0": 83.12399264249865
+  },
+  "A2_-30c.wav": {
+    "string": "A2",
+    "detune_cents": -30,
+    "f0": 108.11026583997761
+  },
+  "A2_+0c.wav": {
+    "string": "A2",
+    "detune_cents": 0,
+    "f0": 110.0
+  },
+  "A2_+15c.wav": {
+    "string": "A2",
+    "detune_cents": 15,
+    "f0": 110.95721821694389
+  },
+  "D3_-30c.wav": {
+    "string": "D3",
+    "detune_cents": -30,
+    "f0": 144.30989148811938
+  },
+  "D3_+0c.wav": {
+    "string": "D3",
+    "detune_cents": 0,
+    "f0": 146.8323839587038
+  },
+  "D3_+15c.wav": {
+    "string": "D3",
+    "detune_cents": 15,
+    "f0": 148.11011698381807
+  },
+  "G3_-30c.wav": {
+    "string": "G3",
+    "detune_cents": -30,
+    "f0": 192.63059450929472
+  },
+  "G3_+0c.wav": {
+    "string": "G3",
+    "detune_cents": 0,
+    "f0": 195.99771799087463
+  },
+  "G3_+15c.wav": {
+    "string": "G3",
+    "detune_cents": 15,
+    "f0": 197.7032869557864
+  },
+  "B3_-30c.wav": {
+    "string": "B3",
+    "detune_cents": -30,
+    "f0": 242.69934087602422
+  },
+  "B3_+0c.wav": {
+    "string": "B3",
+    "detune_cents": 0,
+    "f0": 246.94165062806206
+  },
+  "B3_+15c.wav": {
+    "string": "B3",
+    "detune_cents": 15,
+    "f0": 249.09053286900183
+  },
+  "E4_-30c.wav": {
+    "string": "E4",
+    "detune_cents": -30,
+    "f0": 323.9647527821156
+  },
+  "E4_+0c.wav": {
+    "string": "E4",
+    "detune_cents": 0,
+    "f0": 329.6275569128699
+  },
+  "E4_+15c.wav": {
+    "string": "E4",
+    "detune_cents": 15,
+    "f0": 332.49597056999454
+  }
+}
